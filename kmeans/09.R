@@ -1,4 +1,4 @@
-a <- data.frame(
+data <- data.frame(
  x = c(1,2,3,10,11,12),
  y = c(1,2,3,10,11,12)
 )

@@ -20,7 +20,7 @@ cat("Exponential e^2:", exp(2), "\n")
 
 cat("\n--- Trigonometric Functions ---\n")
 
-angle <- pi/4 # 45 degrees
+angle <- pi/4 
 cat("sin(π/4):", sin(angle), "\n")
 cat("cos(π/4):", cos(angle), "\n")
 cat("tan(π/4):", tan(angle), "\n")

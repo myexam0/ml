@@ -10,7 +10,7 @@ stringsAsFactors = FALSE
 )
 print(student_data)
 cat("\n--- Writing to CSV File ---\n")
-write.csv(student_data, "C:/Users/student/Desktop/019/r_lab/06/students_1.csv", row.names = FALSE)
+write.csv(student_data, "C:/Users/student/Desktop/019/r_lab/06/students.csv", row.names = FALSE)
 cat("Data written to students.csv\n")
 cat("\n--- Reading from CSV File ---\n")
 read_data <- read.csv("students.csv")
