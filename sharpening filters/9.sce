@@ -1,5 +1,4 @@
-image=imread("C:\Users\student\Documents\image lab\images.jpeg
-(2).jpg");
+image=imread("C:\Users\student\Documents\image lab\images.jpeg(2).jpg");
 g=rgb2gray(image);
 figure();
 imshow(g);
